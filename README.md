@@ -1,4 +1,4 @@
-# LPC-2148-with-voice-
+# add voice to your embedded project
 This file will provide you a step by step guide on how to add a voice/audio to any microcontroller code with a DAC enabled 
 feel free to copy/contribute to this project or its resources .If needed contact me on ceasaze@gmail.com
 
